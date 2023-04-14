@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Jun Long :)</h1>
-<h3 align="center">A Year 4 NUS Computer Science Student</h3>
+![Header](./header.png)
+<h3 align="center">I am a Year 4 NUS Computer Science Student</h3>
 <img align="right" alt"Coding" width="200" src="https://media.tenor.com/Dr5sZCODJ50AAAAi/mochi-mochi-hello-grey-cat-mochi-mochi.gif">
 
 - 👨‍💻 All of my projects are available at [https://junlong4321.github.io/Resume/](https://junlong4321.github.io/Resume/)
