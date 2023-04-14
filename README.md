@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm Jun Long :)</h1>
-<h3 align="center">A Year 4 NUS Computer Science student</h3>
-<img align="right" alt"Coding" width="250" src="https://media.tenor.com/Dr5sZCODJ50AAAAi/mochi-mochi-hello-grey-cat-mochi-mochi.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=junlong4321&label=Profile%20views&color=0e75b6&style=flat" alt="junlong4321" /> </p>
+<h3 align="center">A Year 4 NUS Computer Science Student</h3>
+<img align="right" alt"Coding" width="200" src="https://media.tenor.com/Dr5sZCODJ50AAAAi/mochi-mochi-hello-grey-cat-mochi-mochi.gif">
 
 - 👨‍💻 All of my projects are available at [https://junlong4321.github.io/Resume/](https://junlong4321.github.io/Resume/)
 
